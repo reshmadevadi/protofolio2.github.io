@@ -1,0 +1,118 @@
+#tel{
+    padding-top: 9px;
+    height: 20px;
+    width:20px;
+}
+#front1{
+    margin-left: 150px;
+    margin-top: 15px;
+ 
+}
+#front2{
+    margin-top: 0%;
+    background-color:#f0f6f6 ;
+    height: 45px;
+
+}
+.para{
+    display:inline;
+}
+#para{
+    display:inline;
+    padding-left: 90px;
+    
+   
+
+}
+.image1{
+    padding-left:700px;
+}
+#option{
+    margin-top: 20px;
+    margin-left:150px;
+}
+#video{
+
+    margin-left: 45% ;
+    margin-top: -200px;
+    
+}
+#demo{
+    width:250px;
+    height: 50px;
+   
+    background-color: #0799bd;
+    color:#f0f6f6;
+    font-size: 20px;
+
+    
+}
+#buton{
+    padding-top:40px;
+}
+#exp{
+    text-align: center;
+    font-size: 40px;
+    color:#005469;
+    
+}
+
+#ital{
+    animation-name: ani;
+    color:#FFA500;
+}
+@keyframes ani{
+    from{
+
+        color:#FFA500;}
+
+        to{
+            color:black}
+        }
+
+    #work{
+        background-color: #005469;
+        margin-left: 250px;
+        margin-right: 250px;
+        
+
+    }
+
+    #headi{
+        padding-left: 40px;
+        padding-top: 40px;
+    }
+
+    #para1{
+        padding-left: 40px;
+        font-size: 20px;
+    }
+
+    .image-gallery {
+
+        margin-top: 100px;
+       margin-left: 15%;
+        
+        margin-right:  15%;
+        /* Set the width of the container to the screen width */
+        overflow-x: scroll; /* Enable horizontal scrolling */
+        white-space: nowrap; /* Prevent text wrapping */
+    }
+    .image-gallery img {
+        display: inline-block; /* Display images in a row */
+        max-width: 50%; /* Ensure images are responsive */
+        height: 430px;
+        width:350px; /* Maintain the aspect ratio of images */
+    }
+
+    #full{
+        background-color: rgb(239, 239, 239);
+    }
+
+    .input{
+        width:600px;
+        height: 35px;
+    }
+    
+
+    
